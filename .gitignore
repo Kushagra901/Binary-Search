@@ -1,0 +1,14 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# IDE and tool directories
+.vscode/
+.deepeval/
+.idea/
+
+# OS specific files
+Thumbs.db
+Desktop.ini
